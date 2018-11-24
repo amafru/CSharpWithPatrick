@@ -1,0 +1,6 @@
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\bin\Debug\CSharpWithPatrick.exe.config
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\bin\Debug\CSharpWithPatrick.exe
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\bin\Debug\CSharpWithPatrick.pdb
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\obj\Debug\CSharpWithPatrick.csprojResolveAssemblyReference.cache
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\obj\Debug\CSharpWithPatrick.exe
+C:\Users\HP User\Documents\Test Automation\C#\CSharpWithPatrick\CSharpWithPatrick\obj\Debug\CSharpWithPatrick.pdb
